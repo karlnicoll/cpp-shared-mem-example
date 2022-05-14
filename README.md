@@ -51,7 +51,7 @@ any key to show the same message in the second process:
     ----------
 
     $ ./a.out
-    Send message: test123
+    Send message (type 'exit' to quit): test123
     Sending 'test123' (length: 7)
     Hit return when ready to read...
 
