@@ -36,7 +36,7 @@ the application:
     ----------
 
     $ ./a.out
-    Send message:
+    Send message (type 'exit' to quit):
 
     Terminal 2:
     ----------
@@ -77,3 +77,8 @@ something similar to wait for messages.
   * Why?
   * How would you protect from overflows?
 * What happens if you launch more than two copies of the program?
+
+## License
+
+This code is released into the public domain. You can copy, edit, and
+re-release this code without guilt, and you don't have to give any credit.
